@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Rahmat Fahmi 👋
+
+![Rahmat Fahmi](img/github%20header.jpg)
 
 <!--
 **RahmatFahmi/RahmatFahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently studying and looking for experience to work as a web and Android developer.
+- 🌱 I am currently deepening my knowledge to use the **Laravel framework** and **Kotlin**
